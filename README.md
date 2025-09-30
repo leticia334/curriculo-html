@@ -1,36 +1,40 @@
-<!doctype html>
-<html lang="pt-BR">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Currículo - Seu Nome</title>
+    <meta charset="UTF-8">
+    <style>background-color: rgb(180, 244, 184);</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo da leticia rodrigues</title>
 </head>
+<center><img src="https://i.pinimg.com/originals/7d/73/86/7d7366108a7b8acb0457ddc90cb5adb.gif"></center>
 <body>
-  <header>
-    <h1>leticia rodrigues gome</h1>
-    <p>Email: leticiarodriguesgomesr@gmail.com| Telefone: (85) 98448-1936</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/seuusuario">linkedin.com/in/seuusuario</a></p>
-    <p>GitHub: <a href="https://github.com/seuusuario">github.com/seuusuario</a></p>
-  </header>
-
-  <hr>
-
-  <section>
-    <h2>Objetivo</h2>
-    <p>acabar com a fome</p>
-  </section>
-
-  <section>
-    <h2>Formação Acadêmica</h2>
+    <center>
+        <h2>leticia rodrigues</h2>
+        Brasileira, 22 anos, divorciada, pedro americo 278<br>
+        <p>Objetivo: vencer a Yasmin no roblox</p>
+        <center><p>(85) 984481936</p></center>
+    </center>
+    <hr><style>
+    </style>
+    <p>Formação:</p>
     <ul>
-      <li><strong>Curso</strong> — informatica(2025)</li>
-      <li><strong>Curso</strong> — informatica(2025)</li>
+        <li>Aprender no roblox</li>
+        <li>Assistir tiktok</li>
+        <li>Comer besteira</li>
+        <li>Amiga da kyler jenner</li>
     </ul>
-  </section>
-
-  <section>
-    <h2>jovem aprendiz grafnet</h2>
+    <hr><style>
+    </style>
+    <p>Cursos e treinamentos:</p>
     <ul>
-      <li>
+        <li>Informatica</li>
+        <li>Medlogem</li>
+        <li>empreendedora</li>
+        <li>Gamer</li>
+    </ul>
+    <center><img src="https://i.gifer.com/origin/68/689ebce9c6f1fb1536646ddc8ce84dc_w200.gif"></center>
+</body>
+</html>
         <strong>Empresa X</strong> — gerente (2023 – 2025)<br>
         supervisionar vendas.
       </li>
@@ -38,31 +42,3 @@
         <strong>Empresa Y</strong> — gerente (2023– 2025)<br>
         supervisionar vendas.
       </li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Habilidades</h2>
-    <ul>
-      <li>agilidade</li>
-      <li>colaboraçao</li>
-      <li>honestidade</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Cursos e Certificações</h2>
-    <ul>
-      <li>Certificação X — eeep paulo petrola (Ano)</li>
-      <li>informatica— Plataforma (2025)</li>
-    </ul>
-  </section>
-
-  <footer>
-    <hr>
-    <p>&copy; 2025 - leticia gomes</p>
-  </footer>
-</body>
-</html>
-
-    
